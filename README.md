@@ -37,3 +37,4 @@ Notice that we now have **two folders** in our CSS:
 As usual, `style.css` is importing all the other stylesheets and is then linked in the HTML.
 
 # map-layout
+# map-layout
